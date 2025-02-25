@@ -769,7 +769,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
   
 
-  /* animation calcBtnOnBottom */
+  /* animation calcBtnOnBottom of file */
   calcBtnOnBottom.addEventListener("click", function(){
     calcBtnOnstyle.style.display = "block"; 
     if(calculator.classList.contains("closed")){
